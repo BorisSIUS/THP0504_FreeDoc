@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+Ce projet a été fait par la Team Pas'Tèche avec l'amoure du travail bien fait, comme toujours.
 
-* Ruby version
+Vous trouverez ici une database de FreeDoc
 
-* System dependencies
+Penssez à faire bundle install.
 
-* Configuration
+Les seed on été créés.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Cordialement, la Pastèque teame: Marion 'j' Poquet; Boris Alfoldi; Emeran Gainville; Souleyman Soul; Martin Lanrzac; Téo Thibaut; Lucas Gautier.
